@@ -186,31 +186,6 @@ The device output voltage changed with applied pressure, confirming pressure-sen
 
 ---
 
-## Relevance to Semiconductor and MEMS Roles
-
-This project demonstrates practical experience with wafer-level fabrication and process characterization. It is relevant to roles such as:
-
-- Semiconductor Process Engineer
-- MEMS Process Engineer
-- Photolithography Engineer
-- Yield Engineer
-- Device Characterization Engineer
-- Failure Analysis / Process Integration Engineer
-
-The project connects individual fabrication steps to final device performance, which is important for understanding process control, yield impact, and device reliability.
-
----
-
-## Repository Structure
-
-```text
-.
-├── README.md
-├── docs/
-│   └── Piezoresistive_Pressure_sensor_Project_Report.pdf
-└── figures/
-    └── selected process or device images
-```
 
 ---
 
@@ -218,7 +193,7 @@ The project connects individual fabrication steps to final device performance, w
 
 The full project report is available here:
 
-[View Full Report](docs/Piezoresistive_Pressure_sensor_Project_Report.pdf)
+[View Full Report](Reports/Piezoresistive_Pressure_sensor_Project_Report.pdf)
 
 ---
 
