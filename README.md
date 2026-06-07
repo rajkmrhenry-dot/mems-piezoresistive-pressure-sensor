@@ -193,7 +193,7 @@ The device output voltage changed with applied pressure, confirming pressure-sen
 
 The full project report is available here:
 
-[View Full Report](Reports/Piezoresistive_Pressure_sensor_Project_Report.pdf)
+[View Full Report](Report/Piezoresistive_Pressure_sensor_Project_Report.pdf)
 
 ---
 
